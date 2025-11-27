@@ -1,4 +1,4 @@
-# cdnfly cdnfly破解版 cdnfly最新破解版 cdnfly 5.8.1 #cdnfly5.8.5
+# cdnfly cdnfly破解版 cdnfly最新破解版 cdnfly 5.8.1 #cdnfly5.8.5 cdnfly开心版 cdnfly搭建
 cdnfly.me"cdnfly,自建cdn,cdn,防cc攻击,cdn软件,cdn系统
 一款由于OpenResty编写，高性能，功能强大，可防CC攻击的CDN加速系统。
 tg联系 https://t.me/cdnflyme
