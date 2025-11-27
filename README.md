@@ -1,7 +1,8 @@
 # cdnfly cdnfly破解版 cdnfly最新破解版 cdnfly 5.8.1 #cdnfly5.8.5 cdnfly开心版 cdnfly搭建
-cdnfly.me"cdnfly,自建cdn,cdn,防cc攻击,cdn软件,cdn系统
-一款由于OpenResty编写，高性能，功能强大，可防CC攻击的CDN加速系统。
-tg联系 https://t.me/cdnflyme
+#cdnfly.me"cdnfly,自建cdn,cdn,防cc攻击,cdn软件,cdn系统
+#一款由于OpenResty编写，高性能，功能强大，可防CC攻击的CDN加速系统
+#tg联系 https://t.me/cdnflyme
+
 master v5.8.5 (2025-11-17)
 1. 新增L2节点支持，详细查看http://doc.cdnfly.com/ruhepeizhiL2jiedian.html (注意：设置后，之前添加的网站要手动启用一下才会生效L2)
 2. 新增二次实名支持。即当开启某一用户的二次实名后，此时该用户的实名状态为未实名，需要使用与首次实名一样的身份证信息进行实名认证才行。
